@@ -51,3 +51,9 @@ A machine learning-based tool to classify emails and SMS messages as either spam
    ```bash
    git clone https://github.com/yourusername/spam-classifier.git
    cd spam-classifier
+2. Install dependencies using pip:
+   ```bash
+   pip install -r requirements.txt
+3. Now run the app using streamlit:
+   ```bash
+   streamlit run app.py
