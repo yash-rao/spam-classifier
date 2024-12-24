@@ -4,6 +4,17 @@ A machine learning-based tool to classify emails and SMS messages as either spam
 
 ---
 
+## **Demo**
+
+Here’s a quick look at the tool in action:
+
+**Model classifies text as not spam**
+![Spam Classifier Demo](assets/pic_1.png)
+
+**Model classifies text as spam**
+![Spam Classifier Demo](assets/pic_2.png)
+
+---
 ## **Features**
 - 📧 **Spam Detection**: Classifies email and SMS content into "Spam" or "Not Spam."
 - 🔍 **Text Analysis**: Extracts key features from message content for precise classification.
